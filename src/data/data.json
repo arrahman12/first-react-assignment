@@ -1,0 +1,62 @@
+[
+    {
+        "courseName": "Python",
+        "instructor": "Mr x",
+        "enrolled": 34,
+        "price": 10
+    },
+    {
+        "courseName": "Java",
+        "instructor": "Mr i",
+        "enrolled": 23,
+        "price": 100
+    },
+    {
+        "courseName": "C++",
+        "instructor": "Mr p",
+        "enrolled": 37,
+        "price": 104
+    },
+    {
+        "courseName": "Android",
+        "instructor": "Mr t",
+        "enrolled": 340,
+        "price": 103
+    },
+    {
+        "courseName": "Go",
+        "instructor": "Mr i",
+        "enrolled": 37,
+        "price": 105
+    },
+    {
+        "courseName": "Swift",
+        "instructor": "Mr g",
+        "enrolled": 3434,
+        "price": 130
+    },
+    {
+        "courseName": "Mozilla",
+        "instructor": "Mr qw",
+        "enrolled": 365,
+        "price": 1345
+    },
+    {
+        "courseName": "R",
+        "instructor": "Mr t",
+        "enrolled": 343,
+        "price": 1045
+    },
+    {
+        "courseName": "Ranna",
+        "instructor": "keka ferdousi",
+        "enrolled": 34,
+        "price": 10
+    },
+    {
+        "courseName": "Kotlin",
+        "instructor": "Mr y",
+        "enrolled": 34,
+        "price": 10
+    }
+]
